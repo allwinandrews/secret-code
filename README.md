@@ -18,7 +18,7 @@ This project is a JavaScript-based solution for retrieving, parsing, and visuall
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/google-doc-character-grid-renderer.git
+   https://github.com/allwinandrews/secret-code.git
    ```
 2. Navigate to the project directory:
    ```bash
